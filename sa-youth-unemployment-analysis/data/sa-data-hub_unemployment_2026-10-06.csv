@@ -1,0 +1,31 @@
+# SA Data Hub — Unemployment — Downloaded 2026-10-06 — sadatahub.co.za
+# Data sourced from official South African government publications. See sadatahub.co.za/methodology
+id,title,category,series_name,period,value,unit
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q1 2022,34.5,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q2 2022,33.9,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q3 2022,32.9,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q4 2022,32.7,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q1 2023,32.9,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q2 2023,33.5,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q3 2023,33.7,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q4 2023,32.9,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q1 2024,32.9,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q2 2024,33.5,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q3 2024,32.1,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q4 2024,31.9,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q1 2025,33.5,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q2 2025,33.2,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q3 2025,31.9,%
+unemployment-national,National Unemployment Rate,unemployment,Unemployment Rate (%),Q4 2025,31.4,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q1 2023,42.8,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q2 2023,42.5,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q3 2023,43.1,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q4 2023,43.2,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q1 2024,42.9,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q2 2024,43,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q3 2024,43.3,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q4 2024,42.9,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q1 2025,42.5,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q2 2025,42.9,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q3 2025,42.8,%
+labour-force-participation,Labour Force Participation Rate,unemployment,Participation Rate (%),Q4 2025,42.7,%
