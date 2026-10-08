@@ -1,7 +1,0 @@
-pandas
-sqlalchemy
-pymysql
-cryptography
-python-dotenv
-matplotlib
-seaborn
